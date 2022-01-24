@@ -1,20 +1,10 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*ShanBot by shanduy*_ ⌟  
-
-◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Cómo instalar el bot: https://youtu.be/HxZYNgW9aI8
-   ○ Mi Instagram: https://www.instagram.com/thepavos
-
-◉ *COMUNICADO*
-Nuevo video de cómo instalar el bot :)
-https://youtu.be/HxZYNgW9aI8
+⌜ _*CHEZI TAZZZZ PA LA PINGA*_ ⌟  
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+Registrate con el comando ${prefix}pucp y tu nombre
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
